@@ -1,9 +1,6 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 # TempRepository
 =======
-# LCH
->>>>>>> eccf0e6 (Initial commit)
-=======
-# Capstone
->>>>>>> 3d42ebe (Update README.md)
+# Capstone_Design
+
+>>>>>>> 74f1fc0 (Update README.md)
